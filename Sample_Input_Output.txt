@@ -1,0 +1,48 @@
+
+--- Vehicle Rental System ---
+1. Rent a vehicle
+2. Return a vehicle
+3. Display available vehicles
+4. Display current rentals
+5. Exit\
+Enter your choice: 3
+
+Available Vehicles:
+Car: Toyota Camry (CAR001), Seats: 5
+Car: Honda Civic (CAR002), Seats: 5
+Bike: Giant Defy (BIKE001), Electric: No
+Bike: Trek Domane (BIKE002), Electric: Yes
+
+--- Vehicle Rental System ---
+1. Rent a vehicle
+2. Return a vehicle
+3. Display available vehicles
+4. Display current rentals
+5. Exit
+Enter your choice: 1
+Enter vehicle registration number: CAR001
+Enter customer ID: CUST001
+Enter rental duration (days): 3
+Vehicle CAR001 rented to customer CUST001 for 3 days.
+
+--- Vehicle Rental System ---
+1. Rent a vehicle
+2. Return a vehicle
+3. Display available vehicles
+4. Display current rentals
+5. Exit
+Enter your choice: 4
+
+Current Rentals:
+CAR001 rented by CUST001 for 3 days
+
+--- Vehicle Rental System ---
+1. Rent a vehicle
+2. Return a vehicle
+3. Display available vehicles
+4. Display current rentals
+5. Exit
+Enter your choice: 5
+
+Thank you for using the Vehicle Rental System. Goodbye!
+}
