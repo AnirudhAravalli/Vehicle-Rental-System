@@ -38,9 +38,9 @@ To run this project, you need to have the following installed on your system:
    javac *.java
 
 ## Usage
-Run the main class `VehicleRentalSystem`:
-```sh
-java VehicleRentalSystem
+Run the main class VehicleRentalSystem:
+      
+   java VehicleRentalSystem
 
 
 Follow the on-screen prompts to interact with the system. The main menu offers the following options:
