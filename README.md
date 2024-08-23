@@ -11,7 +11,7 @@ The Vehicle Rental System is a Java-based application that simulates the managem
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Sample Input/Output](#sample-inputoutput)
+- [Screenshots/Media](#screenshotsmedia)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -58,6 +58,9 @@ Follow the on-screen prompts to interact with the system. The main menu offers t
 - Display of available vehicles and current rentals
 - Simple and intuitive command-line interface
 
+## Screenshots/Media
+![[Vehicle Renting System Screenshot](Result.jpeg)])![Main Interface](Result.jpeg)
+*Main interface of the Vehicle Rental System showing user interactions.*
 
 ## Future Improvements
 - Implement a graphical user interface (GUI)
