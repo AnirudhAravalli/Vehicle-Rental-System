@@ -59,7 +59,7 @@ Follow the on-screen prompts to interact with the system. The main menu offers t
 - Simple and intuitive command-line interface
 
 ## Screenshots/Media
-[Vehicle Renting System Screenshot](Result.jpeg)]![Main Interface](Result.jpeg)
+(Result.jpeg)]![Main Interface](Result.jpeg)
 *Main interface of the Vehicle Rental System showing user interactions.*
 
 ## Future Improvements
